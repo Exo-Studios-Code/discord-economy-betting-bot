@@ -1,0 +1,11 @@
+py-cord
+python-chess
+Pillow
+aiohttp
+cairosvg
+twitchio
+google-generativeai
+treys
+gTTS
+PyNaCl
+ffmpeg-python
